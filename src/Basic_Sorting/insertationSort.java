@@ -1,3 +1,5 @@
+package Basic_Sorting;
+
 public class insertationSort {
     public static void main(String[] args) {
         int arr[] = {6, 2, 4, 5, 1, 9};
