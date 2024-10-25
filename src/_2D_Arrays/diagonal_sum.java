@@ -1,3 +1,5 @@
+package _2D_Arrays;
+
 public class diagonal_sum {
 
     public static void main(String[] args) {
